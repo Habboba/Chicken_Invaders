@@ -6,16 +6,6 @@ The player controls a spaceship, destroys incoming chickens with lasers, earns p
 
 ---
 
-## 📷 Gameplay
-
-> *(Add screenshots or GIFs here)*
-
-Example:
-
-![Gameplay](images/gameplay.gif)
-
----
-
 # 🎮 Features
 
 - 🚀 Player-controlled spaceship
